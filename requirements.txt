@@ -32,3 +32,4 @@ evaluate
 accelerate
 peft
 bitsandbytes
+einops
